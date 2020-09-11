@@ -9,7 +9,7 @@ namespace EkaAdoDemo
 {
     class DA
     {
-        private const string ConnString = "database=MyyntiDB;Server=DESKTOP-F5NJUA7\\MSSQLSERVER01;trusted_connection=true";
+        private const string ConnString = "XXXX";
         public static void TulostaAsiakkaat()
         {
             // Kytkeydy tietokantaan eli luo SqlConnection-olio, määritä sille ConnectionStringja kutsu Open-metodia
